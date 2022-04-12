@@ -679,11 +679,9 @@ footer div {
     .leftcolumn {
         width:100%;
         height:20%;
-    }
-   .menu {
         position:sticky;
-        z-index: 1;
-   }
+        top:0;
+    }
   
 
 }
